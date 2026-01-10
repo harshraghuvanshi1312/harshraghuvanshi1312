@@ -44,7 +44,7 @@
 | 🌐 Web Development | 🎬 Video Editing & Cinematics |
 | :---: | :---: |
 | [![Web Project](https://img.shields.io/badge/Project-WordPress_Portfolio-blue?style=for-the-badge)](https://www.behance.net/harshraghuvanshi1312) | [![Video Editing](https://img.shields.io/badge/Project-GTA_V_Cinematics-red?style=for-the-badge)](https://www.behance.net/harshraghuvanshi1312) |
-| <img src="https://via.placeholder.com/300x150.png?text=WordPress+Project+Image" width="300" /> | <img src="https://via.placeholder.com/300x150.png?text=Video+Editing+Demo" width="300" /> |
+| <img src="https://www.behance.net/gallery/239957673/Simple-Cattle-Feed-WordPress-Website-Elementor" width="300" /> | <img src="https://via.placeholder.com/300x150.png?text=Video+Editing+Demo" width="300" /> |
 | **Balaji Global Exports Website** | **GTA V Dolly Zoom & Brand Promos** |
 
 
