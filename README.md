@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;WordPress+Developer" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshraghuvanshi1312&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraghuvanshi1312&theme=radical" alt="GitHub Streak" />
+</div>
+
 #
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
