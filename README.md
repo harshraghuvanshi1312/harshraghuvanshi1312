@@ -11,6 +11,13 @@
 🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
 🤝 Looking to connect with clients who want to build responsive and creative websites.
 
+#
+<div align="center">
+  <h3>Connect with me:</h3>
+  <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raghuvanshi" height="30" width="40" /></a>
+  <a href="https://instagram.com/_harsh_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_r" height="30" width="40" /></a>
+  <a href="mailto:harshraghuvanshi1312@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+</div>
 
 #
 ### Connect with me:
