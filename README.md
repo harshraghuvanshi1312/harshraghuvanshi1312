@@ -1,9 +1,8 @@
 <div align="center">
   <h1>I'm Harsh Raghuvanshi</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%26+CSE+Student;WordPress+Developer;Video+Editor+%26+Designer" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%26+Designer;WordPress+Developer" alt="Typing SVG" />
 
-<div align="center">
+
 <h4>Building Creative & Responsive Websites with HTML, CSS and JavaScript</h4>
 </div>
 
