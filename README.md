@@ -12,7 +12,7 @@
 </div>
 
 #
-🔭  I'm Web Developer<br>🌱 I’m currently learning WordPress and Flutter.<br>🤝 Looking to connect with clients who want to build responsive and creative websites.
+🔭  I'm Web Developer<br>🌱 I’m currently learning WordPress and Flutter.<br>🤝 Looking to connect with clients who want to build responsive and creative websites.<br>
 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>, where I am honing my technical and analytical skills.
 #
 ### Connect with me:
