@@ -1,7 +1,8 @@
 <div align="center">
-
-# 𝐈'𝐦  𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢
-
+  
+  <h1>Hi 👋, I'm Harsh Raghuvanshi</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%26+CSE+Student;WordPress+Developer;Video+Editor+%26+Designer;Creative+Problem+Solver" alt="Typing SVG" />
+  
 </div>
 
 <div align="center">
