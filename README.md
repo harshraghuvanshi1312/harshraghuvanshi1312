@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h4>Web Developer & CSE Student ● WordPress Developer ● Canva ● Video Editing<br>Building Creative & Responsive Websites with HTML, CSS and JavaScript</h4><br>
+<h4>Web Developer & CSE Student ● WordPress Developer ● Canva ● Video Editing<br>Building Creative & Responsive Websites with HTML, CSS and JavaScript</h4>
 <h5>Study at Sage University, Indore</h5>
 
 </div>
