@@ -13,7 +13,7 @@
 
 #
 🔭  I'm Web Developer<br>🌱 I’m currently learning WordPress and Flutter.<br>🤝 Looking to connect with clients who want to build responsive and creative websites.
-
+I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>, where I am honing my technical and analytical skills.
 #
 ### Connect with me:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harshraghuvanshi1312) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harsh_r_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshraghuvanshi1312) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshraghuvanshi1312@gmail.com) 
