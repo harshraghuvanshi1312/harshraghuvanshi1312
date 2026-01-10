@@ -13,10 +13,20 @@
 
 #
 <div align="center">
-  <h3>Connect with me:</h3>
-  <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raghuvanshi" height="30" width="40" /></a>
-  <a href="https://instagram.com/_harsh_r_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_r" height="30" width="40" /></a>
-  <a href="mailto:harshraghuvanshi1312@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <h3>Let's Connect & Collaborate:</h3>
+  
+  <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.behance.net/harshraghuvanshi1312" target="blank">
+    <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://instagram.com/harsh_r._" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:harshraghuvanshi1312@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 #
