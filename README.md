@@ -37,18 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-
-### 🌟 Featured Projects (My Portfolio)
-*Click on the images to view projects on Behance/Live*
-
-| 🌐 Web Development | 🎬 Video Editing & Cinematics |
-| :---: | :---: |
-| [![Web Project](https://img.shields.io/badge/Project-WordPress_Portfolio-blue?style=for-the-badge)](https://www.behance.net/harshraghuvanshi1312) | [![Video Editing](https://img.shields.io/badge/Project-GTA_V_Cinematics-red?style=for-the-badge)](https://www.behance.net/harshraghuvanshi1312) |
-| <img src="https://www.behance.net/gallery/239957673/Simple-Cattle-Feed-WordPress-Website-Elementor" width="300" /> | <img src="https://via.placeholder.com/300x150.png?text=Video+Editing+Demo" width="300" /> |
-| **Balaji Global Exports Website** | **GTA V Dolly Zoom & Brand Promos** |
-
-
-
+#
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshraghuvanshi1312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshraghuvanshi1312&theme=dark&hide_border=false)<br/>
