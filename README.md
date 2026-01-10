@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 color:"red">I'm Harsh Raghuvanshi</h1>
+  <h1>𝐈'𝐦  𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;WordPress+Developer" alt="Typing SVG" width="350" />
 
 </div>
