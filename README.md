@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;WordPress+Developer" alt="Typing SVG" width="350" />
 
 </div>
-
+<br>
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
 🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
