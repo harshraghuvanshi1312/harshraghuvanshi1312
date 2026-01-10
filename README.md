@@ -1,15 +1,15 @@
 <div align="center">
-
   <h1>𝐈'𝐦  𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;WordPress+Developer" alt="Typing SVG" width="350" />
-
 </div>
+
 
 #
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
 🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
 🤝 Looking to connect with clients who want to build responsive and creative websites.
+
 
 #
 ### Connect with me:
@@ -20,10 +20,6 @@
   <a href="mailto:harshraghuvanshi1312@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" height="35" style="margin: 10px" /></a>
   <a href="https://wa.me/919589015025" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="35" height="35" style="margin: 10px" /></a>
 </div>
-
-#
-<img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />  
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 
 #
@@ -39,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harshraghuvanshi1312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
