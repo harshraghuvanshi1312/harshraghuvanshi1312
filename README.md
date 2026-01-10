@@ -13,20 +13,9 @@
 
 #
 <div align="center">
-  <h3>Let's Connect & Collaborate:</h3>
-  
-  <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/harshraghuvanshi1312" target="blank">
-    <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://instagram.com/harsh_r._" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:harshraghuvanshi1312@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35" style="margin: 10px" /></a>
+  <a href="https://www.behance.net/harshraghuvanshi1312" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="35" height="35" style="margin: 10px" /></a>
+  <a href="https://instagram.com/harsh_r._" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="35" height="35" style="margin: 10px" /></a>
 </div>
 
 #
