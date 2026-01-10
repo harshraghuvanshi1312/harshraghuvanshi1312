@@ -1,12 +1,13 @@
 <div align="center">
 
-# 𝐈'𝐦 𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢
+# 𝐈'𝐦  𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢
 
 </div>
 
 <div align="center">
 
-<h4>Web Developer & CSE Student ● WordPress Developer ● Canva ● Video Editing<br>Building Creative & Responsive Websites with HTML, CSS and JavaScript</h4>
+<h4>Web Developer & CSE Student ● WordPress Developer ● Canva ● Video Editing<br>Building Creative & Responsive Websites with HTML, CSS and JavaScript</h4><br>
+<h5>Study at Sage University, Indore</h5>
 
 </div>
 
