@@ -10,7 +10,7 @@
 
 </div>
 
-# 💫 About Me:
+
 🔭  I'm Web Developer<br>🌱 I’m currently learning WordPress and Flutter.<br>🤝 Looking to connect with clients who want to build responsive and creative websites.
 
 
