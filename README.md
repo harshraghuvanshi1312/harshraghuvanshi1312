@@ -5,8 +5,6 @@
 
 </div>
 
-
-#
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
 🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
