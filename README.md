@@ -17,8 +17,7 @@
   <a href="https://linkedin.com/in/harshraghuvanshi1312" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35" style="margin: 10px" /></a>
   <a href="https://www.behance.net/harshraghuvanshi1312" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="35" height="35" style="margin: 10px" /></a>
   <a href="https://instagram.com/harsh_r._" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="35" height="35" style="margin: 10px" /></a>
- <a href="mailto:harshraghuvanshi1312@gmail.com" target="blank"><img src="https://icons8.com/icon/P7UIlhbpWzZm/gmail" width="35" height="35" style="margin: 10px" /></a>
-
+  <a href="https://wa.me/919589015025" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="35" height="35" style="margin: 10px" /></a>
 </div>
 
 #
