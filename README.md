@@ -11,9 +11,9 @@
 </div>
 
 #
-🔭 I'm Web Developer<br>
+🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
-🌱 I’m currently learning WordPress and Flutter.<br>
+🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
 🤝 Looking to connect with clients who want to build responsive and creative websites.
 
 
