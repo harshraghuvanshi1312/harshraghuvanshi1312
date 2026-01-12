@@ -10,18 +10,6 @@
 🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
 🤝 Looking to connect with clients who want to build responsive and creative websites.
 
-#
-### Connect with me:
-
-<p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="YOUR_BEHANCE_URL" target="blank"><img src="https://img.shields.io/badge/behance-%231769ff.svg?style=for-the-badge&logo=behance&logoColor=white" alt="behance" /></a>
-<a href="YOUR_INSTAGRAM_URL" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-<a href="mailto:YOUR_EMAIL" target="blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="YOUR_WHATSAPP_URL" target="blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
-</p>
-
-
 
 #
 ### Connect with me:
