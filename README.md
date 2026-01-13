@@ -1,3 +1,4 @@
+<body bgcolor="lavender">
 <div align="center">
   <h1>𝐈'𝐦  𝐇𝐚𝐫𝐬𝐡 𝐑𝐚𝐠𝐡𝐮𝐯𝐚𝐧𝐬𝐡𝐢</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;WordPress+Developer" alt="Typing SVG" width="350" />
@@ -42,4 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=harshraghuvanshi1312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshraghuvanshi1312&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshraghuvanshi1312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</body>
