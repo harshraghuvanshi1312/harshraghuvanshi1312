@@ -38,7 +38,7 @@
 <br>
 
 ### 📜 Certificate Details
-- **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="https://github.com/harshraghuvanshi1312/harshraghuvanshi1312/assets/assets/Supercharge-Your-Productivity-with-AI.jpg">🌐</a>
+- **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="https://github.com/harshraghuvanshi1312/harshraghuvanshi1312/assets/Supercharge-Your-Productivity-with-AI.jpg">🌐</a>
 - **Build a Full Website Using WordPress** - Coursera (January 2026)
 - **5-Day AI Agents Intensive Course** – Kaggle (November 2025)
 - **Cybersecurity Masterclass** - SecureEyes (July 2025)
