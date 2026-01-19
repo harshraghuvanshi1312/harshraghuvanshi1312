@@ -38,13 +38,12 @@
 <br>
 
 ### 📜 Certificate Details
-- **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="assets/Supercharge-Your-Productivity-with-AI.jpg">🔗</a>
-
-- **Build a Full Website Using WordPress** - Coursera (January 2026)
-- **5-Day AI Agents Intensive Course** – Kaggle (November 2025)
-- **Cybersecurity Masterclass** - SecureEyes (July 2025)
-- **Data Analytics & Visualization Job Simulation** - Accenture forage (October 2024)
-- **IT–ITeS Sector (Level 2)** - NASSCOM (March 2021)
+- **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="assets/Supercharge-Your-Productivity-with-AI.jpg"></a>
+- **Build a Full Website Using WordPress** - Coursera (January 2026) <a href="assets/Build-a-Full-Website-using-WordPress.jpg"></a>
+- **5-Day AI Agents Intensive Course** – Kaggle (November 2025) <a href="assets/5-Day-AI-Agents-Intensive-Course-with-Google.png"></a>
+- **Cybersecurity Masterclass** - SecureEyes (July 2025) <a href="assets/Cybersecurity-Masterclass.jpg"></a>
+- **Data Analytics & Visualization Job Simulation** - Accenture forage (October 2024) <a href="assets/Data-Analytics-and-Visualization-Job-Simulation.jpg"></a>
+- **IT–ITeS Sector (Level 2)** - NASSCOM (March 2021) <a href="assets/IT-ITeS-Sector-conforming-to-Level-2.jpg"></a>
 
 
 #
