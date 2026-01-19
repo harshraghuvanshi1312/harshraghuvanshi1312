@@ -7,7 +7,7 @@
 #
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
-🌱 I’m currently learning <b>WordPress</b> and <b>Flutter</b>.<br>
+🌱 I’m currently learning <b>Figma</b>, <b>Flutter</b> and <b>WordPress</b>.<br>
 🤝 Looking to connect with clients who want to build responsive and creative websites.
 
 
@@ -37,6 +37,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br>
 
+#
 ### 📜 Certificate Details
 - **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="assets/Supercharge-Your-Productivity-with-AI.jpg">🔗</a>
 - **Build a Full Website Using WordPress** - Coursera (January 2026) <a href="assets/Build-a-Full-Website-using-WordPress.jpg">🔗</a>
