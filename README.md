@@ -35,6 +35,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<br>
+
+### 📜 Certificate Details
+- **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="https://github.com/harshraghuvanshi1312/harshraghuvanshi1312/assets/assets/Supercharge-Your-Productivity-with-AI.jpg">🌐</a>
+- **Build a Full Website Using WordPress** - Coursera (January 2026)
+- **5-Day AI Agents Intensive Course** – Kaggle (November 2025)
+- **Cybersecurity Masterclass** - SecureEyes (July 2025)
+- **Data Analytics & Visualization Job Simulation** - Accenture forage (October 2024)
+- **IT–ITeS Sector (Level 2)** - NASSCOM (March 2021)
 
 
 #
