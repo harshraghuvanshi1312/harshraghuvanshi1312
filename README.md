@@ -8,7 +8,10 @@
 🔭 I'm <b>Web Developer</b><br>
 🎓 I am currently pursuing my <b>B.Tech</b> in <b>Computer Science</b> at <b>Sage University, Indore</b>.<br>
 🌱 I’m currently learning <b>WordPress</b> and <b>Figma</b>.<br>
-🤝 Looking to connect with clients who want to build responsive and creative websites.
+🤝 Looking to connect with clients who want to build responsive and creative websites. 
+
+###
+[![Resume](https://img.shields.io/badge/Resume-F3C77C.svg?style=for-the-badge&logo=readme&logoColor=000000)](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf) 
 
 
 #
@@ -37,9 +40,6 @@
 ![GitHub](https://img.shields.io/badge/github-151414.svg?style=for-the-badge&logo=github&logoColor=white) 
 <br>
 
-#
-### Resume
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue)](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf)
 
 #
 ### 📜 Certificate Details
