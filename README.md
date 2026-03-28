@@ -38,6 +38,10 @@
 <br>
 
 #
+### Resume
+[My Resume](https://github.com/username/resume/blob/main/Resume.pdf)
+
+#
 ### 📜 Certificate Details
 - **Supercharge Your Productivity with AI** - IIDE (January 2026) <a href="assets/Supercharge-Your-Productivity-with-AI.jpg">🔗</a>
 - **Build a Full Website Using WordPress** - Coursera (January 2026) <a href="assets/Build-a-Full-Website-using-WordPress.jpg">🔗</a>
