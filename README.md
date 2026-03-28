@@ -39,7 +39,7 @@
 
 #
 ### Resume
-📄 [View My Resume](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-blue)](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf)
 
 #
 ### 📜 Certificate Details
