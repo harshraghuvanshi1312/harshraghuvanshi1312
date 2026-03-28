@@ -39,7 +39,7 @@
 
 #
 ### Resume
-[My Resume](https://github.com/username/resume/blob/main/Resume.pdf)
+📄 [View My Resume](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf)
 
 #
 ### 📜 Certificate Details
