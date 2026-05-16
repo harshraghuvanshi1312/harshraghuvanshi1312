@@ -12,7 +12,7 @@
 
 ###
 [![Portfolio](https://img.shields.io/badge/Portfolio-F3C77C.svg?style=for-the-badge&logo=portfolio&logoColor=000000)](https://harshraghuvanshi.pro/) 
-[![Resume](https://img.shields.io/badge/Resume-F3C77C.svg?style=for-the-badge&logo=readme&logoColor=000000)](https://d3s27eh1wskpwv.cloudfront.net/placement/Harsh_Raghuvanshi_cv_3758.pdf) 
+[![Resume](https://img.shields.io/badge/Resume-F3C77C.svg?style=for-the-badge&logo=readme&logoColor=000000)](https://harshraghuvanshi.pro/resume) 
 
 #
 ### Connect with me:
